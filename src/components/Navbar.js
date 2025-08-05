@@ -92,13 +92,21 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link href="" target="_blank" rel="noreferrer">
+              <Nav.Link
+                href="https://lokesh-ps-portfolio.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item className="fork-btn">
-              <Button href="" target="_blank" className="fork-btn-inner">
+              <Button
+                href="https://github.com/lokesh-ps/Portfolio"
+                target="_blank"
+                className="fork-btn-inner"
+              >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
