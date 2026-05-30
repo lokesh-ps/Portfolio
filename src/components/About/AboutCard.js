@@ -11,32 +11,34 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Lokesh P S </span>
             from <span className="purple"> Tumkur, India.</span>
             <br />
-            I am currently employed as a Front-end developer at TCS.
+            Currently working as a Senior Associate Consultant at Infosys with
+            4+ years of experience in frontend development.
             <br />
-            I'm currently sharpening my skills in React.js, exploring backend
-            development, and preparing to grow into a full-stack role. With 3
-            plus years of experience, I enjoy building scalable and responsive
-            web applications that are both functional and user-friendly.
+            I specialize in building scalable, responsive, and user-friendly web
+            applications using React.js, JavaScript, TypeScript, Redux, and
+            modern frontend technologies. I also have exposure to AWS deployment
+            workflows, CI/CD pipelines, API integration, performance
+            optimization, and component-based architecture.
             <br />
             <br />
             💡 A Few Things About Me Beyond Code:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> 🎮 Love trekking and leading adventure trips on
+              <ImPointRight /> 🥾 Love trekking and leading adventure trips on
               weekends
             </li>
             <li className="about-activity">
-              <ImPointRight /> ✍️ Enjoy writing and learning about new tech
-              trends
+              <ImPointRight /> 📚 Enjoy exploring new technologies and staying
+              updated with tech trends
             </li>
             <li className="about-activity">
-              <ImPointRight /> 🌍 Always up for exploring new places and meeting
-              people
+              <ImPointRight /> 🌍 Always excited to explore new places and
+              connect with new people
             </li>
             <li className="about-activity">
-              <ImPointRight /> 🤖 Currently diving into backend tech to expand
-              my developer toolkit
+              <ImPointRight /> 🚀 Continuously learning and growing as a
+              developer by exploring modern frontend and backend technologies
             </li>
           </ul>
 

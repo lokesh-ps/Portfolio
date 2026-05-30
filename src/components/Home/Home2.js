@@ -19,11 +19,14 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming a few years ago — and since then,
-              it’s been an exciting journey of building, learning, and improving
-              every day. I think I’ve learned quite a bit… 🤷‍♂️💻
+              A few years ago, I discovered my passion for programming — and
+              since then, it has been an exciting journey of continuous
+              learning, building, and problem-solving 💻🚀
               <br />
-              <br />I am fluent in
+              <br />
+              I’m a React.js Developer with 4+ years of professional experience
+              in building scalable, responsive, and user-friendly web
+              applications using
               <i>
                 <b className="purple">
                   {" "}
@@ -32,37 +35,26 @@ function Home2() {
                 </b>
               </i>
               <br />
-              <br />
-              With over 3 plus years of professional experience, I specialize in
-              crafting responsive, scalable, and user-friendly web applications
-              🌐✨. My interests lie in{" "}
+              <br />I have experience working on{" "}
               <i>
                 <b className="purple">
-                  modern web technologies, product development,{" "}
+                  component-based architecture, API integration, frontend
+                  performance optimization, AWS deployment workflows, CI/CD
+                  pipelines, and end-to-end UI development
                 </b>{" "}
               </i>
-              and exploring areas like
-              <b className="purple"> backend development</b>
-              🛠️. &nbsp;
+              . I enjoy transforming business requirements into clean and
+              efficient user experiences.
               <br />
               <br />
-              On weekends, I switch gears and take on a different challenge — I
-              work as a{" "}
-              <i>
-                <b className="purple">trek guide 🥾⛰️</b>
-              </i>
-              , helping people explore nature and push their limits, just like I
-              do in tech 🚀.
+              Beyond tech, I enjoy trekking and leading adventure trips on
+              weekends 🥾⛰️ — an experience that has helped me improve
+              leadership, communication, and adaptability outside the corporate
+              world.
               <br />
               <br />
-              Whenever possible, I pour my passion into building full-stack
-              applications using
-              <b className="purple">
-                JavaScript, React.js, Redux, Node.js, and Express.js{" "}
-              </b>
-              — and I’m actively leveling up my
-              <b className="purple"> backend skills</b> to take on end-to-end
-              product development 📈.
+              I’m passionate about modern web technologies, continuous learning,
+              and building impactful digital products 🌐✨
             </p>
           </Col>
           <Col md={4} className="myAvtar">

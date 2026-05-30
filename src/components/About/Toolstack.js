@@ -1,11 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
+  SiVscodium,
   SiPostman,
   SiSlack,
   SiVercel,
   SiMacos,
+  SiGithubcopilot,
+  SiGithubactions,
   SiAndroidstudio,
 } from "react-icons/si";
 import { FaGitAlt } from "react-icons/fa";
@@ -20,7 +22,7 @@ function Toolstack() {
         <FaGitAlt />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <SiVscodium />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
@@ -33,6 +35,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAndroidstudio />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithubcopilot />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithubactions />
       </Col>
     </Row>
   );

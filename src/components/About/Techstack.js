@@ -1,9 +1,13 @@
 import { Col, Row } from "react-bootstrap";
 import { DiJavascript1, DiReact, DiNodejs, DiMongodb } from "react-icons/di";
-import { SiChakraui, SiReduxsaga } from "react-icons/si";
+import {
+  SiChakraui,
+  SiReduxsaga,
+  SiJirasoftware,
+  SiConfluence,
+} from "react-icons/si";
 import { IoLogoCss3 } from "react-icons/io";
 import { TiHtml5 } from "react-icons/ti";
-
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -30,6 +34,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiChakraui />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJirasoftware />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiConfluence />
       </Col>
     </Row>
   );
